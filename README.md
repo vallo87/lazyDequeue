@@ -14,4 +14,4 @@ Compatible with All Browsers and IE7+.
 
 
 ###License
-Unveil is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+lazyQueue is licensed under the [MIT license](http://opensource.org/licenses/MIT).
